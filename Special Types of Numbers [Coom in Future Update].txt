@@ -1,0 +1,43 @@
+Automorphic number :
+
+An automorphic number is a number which is present in the last digit(s) of its square. Example: 25 is an automorphic number as its square is 625 and 25 is present as the last digits.
+
+Neon number:
+
+A number is said to be a Neon Number if the sum of digits of the square of the number is equal to thenumber itself. Example 9 is a Neon Number. 9*9=81 and 8+1=9.Hence it is a Neon Number.
+
+Magic number :
+
+A number is said to be a Magic number if the sum of its digits are calculated till a single digit is obtained by recursively adding the sum of its digits. If the single digit comes to be 1 then the number is a magic number.
+
+Example :
+
+901
+
+9+0+1=10
+
+1+0=1
+
+Palindrome:
+
+Reverse of a number is also same as the original number.
+
+Examle:
+
+100001,
+
+123454321.
+
+:)
+
+These are perfect cubes where the sum of the number’s digits is equal to the cube root of the number.
+
+512 = 8³ and 5 + 1 + 2 = 8
+
+4913 = 17³ and 4 + 9 + 1 + 3 = 17
+
+5832 = 18³ and 5 + 8 + 3 + 2 = 18
+
+17576 = 26³ and 1 + 7 + 5 + 7 + 6 = 26
+
+19683 = 27³ and 1 + 9 + 6 + 8 + 3 =27

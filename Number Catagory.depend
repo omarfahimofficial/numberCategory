@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1597750111 source:e:\ndub\2nd semester\cse 1350\lab 06\number catagory\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1599608058 source:f:\my developed apps\c porgam apps\number catagory\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<limits.h>
+	<windows.h>
+
+1599609139 source:f:\my developed apps\c porgam apps\number catagory\resources.rc
+
